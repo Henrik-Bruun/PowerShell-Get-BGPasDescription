@@ -45,10 +45,3 @@
         $data
     }
 }
-
-<#
-# Example usage:
-# Get-BGPasDescription -asn '43557'
-# Get-BGPasOrigin -ip '92.246.24.228' | Get-BGPasDescription
-# Get-AsDescription-Array -asn 43557
-#>
